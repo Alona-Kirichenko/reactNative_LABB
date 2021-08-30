@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "labb_alona_kirichenko",
+    "slug": "labb_alona_kirichenko",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "labb_alona_kirichenko"
+}
